@@ -1,7 +1,7 @@
 # CICDJenkins
 CICD 테스트
 ---
-Jenkins v 2.7.1
+Jenkins v 2.7.1, Tomcat9, Windows10
 
 Github repository 연동
 
